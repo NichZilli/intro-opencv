@@ -7,3 +7,5 @@ Contribuições e sugestões são bem-vindas!
 ### Tópicos
 [Tópico 01 - Utilizando o básico do OpenCV](https://github.com/alvesmgabriel/intro-opencv/tree/main/aula-01-opencv-basico)\
 [Tópico 02 - Transformações geométricas](https://github.com/alvesmgabriel/intro-opencv/tree/main/topico-02-transformacoes-geometricas)
+
+(Projeto com fork inicial do Gabriel Alves, com complementações)
